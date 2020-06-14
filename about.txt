@@ -1,0 +1,93 @@
+  ___           _ _   _____ _                      _
+ / _ \         (_|_) /  ___| |                    | |
+/ /_\ \___  ___ _ _  \ `--.| |__   _____      ____| | _____      ___ __
+|  _  / __|/ __| | |  `--. \ '_ \ / _ \ \ /\ / / _` |/ _ \ \ /\ / / '_ \
+| | | \__ \ (__| | | /\__/ / | | | (_) \ V  V / (_| | (_) \ V  V /| | | |
+\_| |_/___/\___|_|_| \____/|_| |_|\___/ \_/\_/ \__,_|\___/ \_/\_/ |_| |_|
+
+                ___  _                 _
+               / _ \| |               | |
+              / /_\ \ |__   ___  _   _| |_
+              |  _  | '_ \ / _ \| | | | __|
+              | | | | |_) | (_) | |_| | |_
+              \_| |_/_.__/ \___/ \__,_|\__|
+              -----------------------------
+
+   
+      
+     "The game is about a player who battles out a deadly enemy with skills"   
+     "and tactical movements."   
+     "Who do you think would WIN!"   
+      
+      
+      
+     "RULES"   
+     "------"   
+     "1 . Single Player"   
+     "2 . You can choose between a range of difficulties to suit your game play mode"   
+     "3 . The player and the enemy have 10 hit points each."   
+     "4 . Use WASD for movement of the player."   
+     "5 . Space bar for shooting bullets."   
+     "6 . Player character is represented by '*'"   
+     "7 . Enemy character is represented by '&'"   
+      
+    ARE YOU READY!!
+
+
+
+
+
+
+
+The interface -
+
+              |                         |
+              |                         |
+              |    &-------      *      |
+              |           |      |  ooooooo
+              ooooooooooo |      |
+                          |      |-->Character represents player
+   Character shows enemy<-|
+
+   
+
+Objective
+
+              |                         |
+              |       >>     >          |
+              |    &    >     >  *      |
+              |                   ooooooo
+              ooooooooooo
+			  
+			  
+Enemy will shoot arrows at your character - The arrows reduce your health
+
+
+
+              |                         |
+              |       >>     >          |
+              |    &    >        >      |
+              |                   ' 'oooooo
+              ooooooooooo
+			  
+	
+Health is reduced by one block
+
+
+
+              |                         |
+              |       >>    > *          |
+              |    &    >      >        |
+              |                   ooooooo
+              ooooooooooo
+			  
+Player can also jump to avoid arrows
+
+
+              |                         |
+              |       >>                |
+              |    &    >  <  < *       |
+              |                   ooooooo
+              ooooooooooo
+			  
+Player can shoot arrows to reduce health of the enemy

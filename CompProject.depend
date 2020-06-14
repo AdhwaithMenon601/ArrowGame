@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1509584294 source:c:\users\ojas\codeblocks\compproject\main.cpp
+	<iostream>
+	<Player.h>
+	<Arrows.h>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
+1509544846 c:\users\ojas\codeblocks\compproject\\player.h
+	<iostream>
+	<windows.h>
+
+1509584400 c:\users\ojas\codeblocks\compproject\\arrows.h
+	<iostream>
+	<Player.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1510216506 source:g:\compproject\compproject\main.cpp
+	<iostream>
+	<Player.h>
+	<Arrows.h>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<Enemy.h>
+
+1510215670 g:\compproject\compproject\\player.h
+	<iostream>
+	<windows.h>
+	<Arrows.h>
+
+1510216414 g:\compproject\compproject\\arrows.h
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1509720164 source:f:\compproject\compproject\main.cpp
+	<iostream>
+	<Player.h>
+	<Arrows.h>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<Enemy.h>
+
+1509720218 f:\compproject\compproject\player.h
+	<iostream>
+	<windows.h>
+
+1509720132 f:\compproject\compproject\arrows.h
+	<iostream>
+	<Player.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+
+1509720164 f:\compproject\compproject\enemy.h
+	<Arrows.h>
+
+1510198104 g:\compproject\compproject\\enemy.h
+	<Arrows.h>
+
+1510905967 source:c:\users\student\desktop\ascii_showdown\compproject\main.cpp
+	<iostream>
+	<Player.h>
+	<Arrows.h>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<Enemy.h>
+	<Score.h>
+
+1510555351 c:\users\student\desktop\ascii_showdown\compproject\\player.h
+	<iostream>
+	<windows.h>
+	<Arrows.h>
+
+1510906139 c:\users\student\desktop\ascii_showdown\compproject\\arrows.h
+	<iostream>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	<unistd.h>
+
+1510893047 c:\users\student\desktop\ascii_showdown\compproject\\enemy.h
+	<Arrows.h>
+
+1510908011 c:\users\student\desktop\ascii_showdown\compproject\\score.h
+	<iostream>
+	<conio.h>
+	<fstream>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
